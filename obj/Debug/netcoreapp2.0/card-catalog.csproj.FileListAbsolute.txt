@@ -1,0 +1,10 @@
+/Users/jacoblafond/dotnet/card-catalog/obj/Debug/netcoreapp2.0/card-catalog.csproj.CoreCompileInputs.cache
+/Users/jacoblafond/dotnet/card-catalog/obj/Debug/netcoreapp2.0/card-catalog.AssemblyInfoInputs.cache
+/Users/jacoblafond/dotnet/card-catalog/obj/Debug/netcoreapp2.0/card-catalog.AssemblyInfo.cs
+/Users/jacoblafond/dotnet/card-catalog/bin/Debug/netcoreapp2.0/card-catalog.deps.json
+/Users/jacoblafond/dotnet/card-catalog/bin/Debug/netcoreapp2.0/card-catalog.runtimeconfig.json
+/Users/jacoblafond/dotnet/card-catalog/bin/Debug/netcoreapp2.0/card-catalog.runtimeconfig.dev.json
+/Users/jacoblafond/dotnet/card-catalog/bin/Debug/netcoreapp2.0/card-catalog.dll
+/Users/jacoblafond/dotnet/card-catalog/bin/Debug/netcoreapp2.0/card-catalog.pdb
+/Users/jacoblafond/dotnet/card-catalog/obj/Debug/netcoreapp2.0/card-catalog.dll
+/Users/jacoblafond/dotnet/card-catalog/obj/Debug/netcoreapp2.0/card-catalog.pdb
