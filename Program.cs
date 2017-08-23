@@ -51,7 +51,9 @@ namespace card_catalog
                 Console.WriteLine($"{item.BookName} is overdue!");
             }
 
-            Console.WriteLine($"{lib.CheckOutBook("dictionary", "jake")}");
+            lib.CheckOutBook("Dictionary", "jake");
+            lib.CheckOutBook("Storm of Swords", "jake");
+            lib.CheckInBook("Storm of Swords", "jake");
         }
     }
 }

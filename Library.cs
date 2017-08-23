@@ -5,7 +5,7 @@ using System.Linq;
 namespace card_catalog
 {
 
-    class Library 
+    class Library
     {
         public string Name { get; set; }
         public string Address { get; set; }
@@ -44,9 +44,8 @@ namespace card_catalog
             }
             else
             {
-                checkedOutBook.IsCheckedOut = true;
-                checkedOutBook.MemberWhoCheckedOut = memberName;
                 Console.WriteLine("Book successfully checked out!");
+                checkedOutBook.IsCheckedOut = true;
             }
         }
         public void CheckInBook(string bookName, string memberName)
@@ -54,7 +53,7 @@ namespace card_catalog
             var checkedOutBook = Catalog.FirstOrDefault(n => n.BookName == bookName);
             if (checkedOutBook?.IsCheckedOut == false)
             {
-               Console.WriteLine($"You can't check this in, it is already checked in.");
+                Console.WriteLine($"You can't check this in, it is already checked in.");
             }
             else
             {
